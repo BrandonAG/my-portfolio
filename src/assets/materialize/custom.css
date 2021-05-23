@@ -28,3 +28,7 @@ body {
 .navActive {
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+footer a {
+  padding-left: 20px;
+}
