@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import 'materialize-css';
 import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Nav(props) {
@@ -14,7 +13,6 @@ function Nav(props) {
   }, [currentCategory]);
 
   return (
-    // <header className="flex-row px-1">
     <header>
       
       <nav>

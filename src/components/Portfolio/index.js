@@ -1,9 +1,8 @@
 import React from 'react';
-import 'materialize-css';
 
 const projects = [
   {
-    link: "",
+    link: "https://github.com/patrickmklee/AverageJoeFitness",
     img: "",
     alt: "Average Joe's Fitness",
   },

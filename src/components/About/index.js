@@ -1,5 +1,4 @@
 import React from 'react';
-import 'materialize-css';
 import portraitImage from '../../assets/portraits/portrait-brandon.jpg';
 function About() {
   return (

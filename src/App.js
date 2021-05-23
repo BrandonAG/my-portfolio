@@ -3,16 +3,12 @@ import Nav from './components/Nav';
 import About from './components/About';
 import Contact from './components/Contact'
 import Portfolio from './components/Portfolio';
-import Resume from './components/Resume';
-import 'materialize-css';
-import { Button, Card, Row, Col } from 'react-materialize';
 
 function App() {
   const [categories] = useState([
     { name: 'about' },
     { name: 'portfolio' },
-    { name: 'contact' },
-    // { name: 'resume' },
+    { name: 'contact' }
   ]);
 
   const [currentCategory, setCurrentCategory] = useState(categories[0]);
