@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da27d552200b1bc1c22d28f5fcafaf8a",
+    "revision": "f788e362a15dcff0a93d0781da3eccdc",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "d31c0ebd905f618eec51",
+    "revision": "46f1c10e48debb94b4e5",
     "url": "/my-portfolio/static/css/main.c062b49a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/js/2.2d038866.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d31c0ebd905f618eec51",
-    "url": "/my-portfolio/static/js/main.329c12b4.chunk.js"
+    "revision": "46f1c10e48debb94b4e5",
+    "url": "/my-portfolio/static/js/main.d0514f4f.chunk.js"
   },
   {
     "revision": "5d4511f3fcec99c33304",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/mailflyer.6efa5477.png"
   },
   {
-    "revision": "0c54ceacd379f14999b71349e519d298",
-    "url": "/my-portfolio/static/media/portrait-brandon.0c54ceac.jpg"
+    "revision": "902442b8d551f30b5c63eba6ec2d376b",
+    "url": "/my-portfolio/static/media/portrait-brandon.902442b8.jpg"
   },
   {
     "revision": "e52807f6472f1f8c6f551865a7ea35b1",
