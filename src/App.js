@@ -43,7 +43,7 @@ function App() {
             <div className="container">
             by Brandon Arnst-Goodrich
             <a class="grey-text text-lighten-4 right" href="https://github.com/BrandonAG" target="_blank">GitHub</a>
-            <a class="grey-text text-lighten-4 right" href="https://www.linkedin.com/in/brandon-arnst-goodrich-89677b84" target="_blank">LinkedIn</a>
+            <a class="grey-text text-lighten-4 right" href="https://www.linkedin.com/in/brandon-arnst-goodrich" target="_blank">LinkedIn</a>
             </div>
           </div>
         </footer>

@@ -16,13 +16,13 @@ body {
 body {
   margin: 0;
   padding: 0;
-  font-weight: 600;
+  font-weight: 300;
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
   background: var(--dark);
   color: var(--light);
-  font-family: 'Poiret One', cursive;
+  font-family: 'Arial Narrow', sans-serif;
 }
 
 .navActive {
@@ -31,4 +31,54 @@ body {
 
 footer a {
   padding-left: 20px;
+}
+
+.materialize-red.lighten-2 {
+  background-color: #0099ff !important;
+}
+
+.materialize-red-text.text-lighten-2 {
+  color: #0099ff !important;
+}
+
+blockquote {
+  border-left: 5px solid #0099ff;
+}
+
+.pagination li.active {
+  background-color: #0099ff;
+}
+
+.page-footer {
+  background-color: #0099ff;
+}
+
+nav {
+  background-color: #0099ff;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+  color: #0099ff;
+}
+
+.table-of-contents a:hover {
+  border-left: 1px solid #0099ff;
+}
+
+.table-of-contents a.active {
+  border-left: 2px solid #0099ff;
+}
+
+.sidenav .collapsible-body > ul:not(.collapsible) > li.active,
+.sidenav.sidenav-fixed .collapsible-body > ul:not(.collapsible) > li.active {
+  background-color: #0099ff;
+}
+
+.tap-target {
+  background-color: #0099ff;
+}
+
+.logo {
+  height: 40px;
+  padding-right: 20px;
 }

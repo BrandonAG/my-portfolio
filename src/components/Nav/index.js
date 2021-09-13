@@ -40,7 +40,7 @@ function Nav(props) {
               </li>
             ))}
             <li>
-              <a href="https://www.linkedin.com/in/brandon-arnst-goodrich-89677b84" target="_blank">Resume</a>
+              <a href="https://docs.google.com/document/d/1F2gJ8YD6ECvTfEqw6mlQ8dmVY5VXf5KdBk5c6ONhh70/edit?usp=sharing" target="_blank">Resume</a>
             </li>
           </ul>
         </div>
